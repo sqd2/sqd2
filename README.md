@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sqd2
 - 👀 I’m interested in computer science, development, and cyber security
-- 🌱 I’m currently learning python & C
+- 🌱 I’m currently learning python, C, and Java
 
 <!---
 sqd2/sqd2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
